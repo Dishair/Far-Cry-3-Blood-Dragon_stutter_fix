@@ -1,0 +1,1 @@
+START "" "%~dp0fc3_blooddragon_d3d11.exe"  -language=russian -RenderProfile_MaxFPS 60 -offline
